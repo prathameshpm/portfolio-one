@@ -1,5 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+}
+
+#landing-page-image {
+  background-image: url('./images/landing-page/img_02.jpeg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
 }
